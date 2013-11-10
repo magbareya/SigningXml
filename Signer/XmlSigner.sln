@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSigner", "SigningXml\XmlSigner.csproj", "{520AB886-A7C2-4B91-9FBE-CF4C81C4B48A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520AB886-A7C2-4B91-9FBE-CF4C81C4B48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520AB886-A7C2-4B91-9FBE-CF4C81C4B48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520AB886-A7C2-4B91-9FBE-CF4C81C4B48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520AB886-A7C2-4B91-9FBE-CF4C81C4B48A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
